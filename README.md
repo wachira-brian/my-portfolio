@@ -22,7 +22,7 @@ This repository contains my personal portfolio, built using **React**, **Vite**,
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/wachira-brian/my-protfolio
    cd your-portfolio
    ```
 
@@ -38,7 +38,7 @@ This repository contains my personal portfolio, built using **React**, **Vite**,
    npm run dev
    ```
 
-   The application will run at [http://localhost:5173](http://localhost:5173).
+   The application will run at [http://localhost:3000](http://localhost:3000).
 
 ## 🏗 Build for Production
 
@@ -57,7 +57,7 @@ npm run preview
 ## 📁 Folder Structure
 
 ```
-your-portfolio/
+my-portfolio/
 ├── public/
 │   └── index.html
 ├── src/
